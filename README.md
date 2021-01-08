@@ -14,6 +14,7 @@ Find me on linked in **[here](https://www.linkedin.com/in/griffin-potts-14137810
 
 <h3>Python Scripts<h/3>
   
+  
 Description|Code
 --------------|--------------
 example1 | ex1
