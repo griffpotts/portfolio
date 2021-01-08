@@ -3,3 +3,9 @@ In this repository you will find different scripts I've written as well as infor
 
 
 Find me on linked in **[here](https://www.linkedin.com/in/griffin-potts-141378105/)**
+
+<h3>Python Scripts<h/3>
+Description|Code
+--------------|--------------
+example1 | ex1
+example2 | ex2
